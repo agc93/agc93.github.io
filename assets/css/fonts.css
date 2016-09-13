@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Lato|Raleway|Slabo+27px';
+
+h1,h2,h3,h4,h5,h6,span,div,a,p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.inner > h1, .inner > h2 {
+    font-family: 'Lato', sans-serif;
+}
